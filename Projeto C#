@@ -1,0 +1,45 @@
+int selection;
+string transform;
+// variaveis de controle
+void Novojogo (){
+    System.Console.WriteLine("Voce se chama guedeslovski \n Voce acaba de se perder na floresta escura de Cassinolandia \n Voce ter que lutar contra seus desejos de apostas e concluir sua jornada.");
+}
+System.Console.WriteLine("Perdido Na Floresta Misteriosa");
+System.Console.WriteLine("Novo jogo");
+System.Console.WriteLine("Configuraçôes");
+System.Console.WriteLine("extras");
+System.Console.WriteLine("Créditos");
+System.Console.WriteLine("Sair");
+transform = Console.ReadLine();
+selection = int.Parse (transform);
+// conversao do int com parse no transform.
+// opçoes selecionaveis para o usuario 
+if (selection == 1)
+{
+    Novojogo();
+    Console.ReadLine();
+    Console.WriteLine("Você pode escolher o que fazer:");
+        Console.WriteLine("1. Andar");
+        Console.WriteLine("2. Procurar");
+    string escolha = Console.ReadLine();
+    if (escolha == "1")
+    {
+
+    }
+}
+else if (selection == 2)
+{System.Console.WriteLine("entrou na seleção 2");
+    Console.ReadLine();
+}    
+else if (selection == 3 )
+{System.Console.WriteLine("entrou na seleção 3");
+    Console.ReadLine();
+}
+else if (selection == 4)
+{System.Console.WriteLine("entrou na seleção 4");
+    Console.ReadLine();
+}
+else if (selection == 5)
+{System.Console.WriteLine("entrou na seleção 5");
+    Console.ReadLine();
+}
