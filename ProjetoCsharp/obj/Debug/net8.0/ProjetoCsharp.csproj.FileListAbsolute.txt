@@ -1,0 +1,14 @@
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\bin\Debug\net8.0\ProjetoCsharp.exe
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\bin\Debug\net8.0\ProjetoCsharp.deps.json
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\bin\Debug\net8.0\ProjetoCsharp.runtimeconfig.json
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\bin\Debug\net8.0\ProjetoCsharp.dll
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\bin\Debug\net8.0\ProjetoCsharp.pdb
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.AssemblyInfoInputs.cache
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.AssemblyInfo.cs
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.dll
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\refint\ProjetoCsharp.dll
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.pdb
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ProjetoCsharp.genruntimeconfig.cache
+C:\Users\Luisa\Desktop\Projetos-Codigos\ProjetoCsharp\ProjetoCsharp\obj\Debug\net8.0\ref\ProjetoCsharp.dll

@@ -1,0 +1,29 @@
+variavel: é capaz de reter e representar um valor ou expressão.
+
+if:  faz a tomada de decisão com base em determinada condição ou expressão.
+
+parse: tem como principal objetivo a conversão de strings em instâncias de tipos de dados nativos.
+
+WriteLine: executa a funçao da maquina em escrever uma linha de texto.
+
+ReadLine: usada para captar informaçoes dadas pelo o usuario.(semelhante ao input do python).
+
+Funções: são blocos de código reutilizáveis que executam uma tarefa específica. Elas podem ser chamadas de qualquer lugar do seu programa, o que torna seu código mais organizado e eficiente.
+Vantagens de usar funções:
+
+*Reutilização de código: evite escrever o mesmo código várias vezes.
+
+*Organização: Divida seu código em blocos menores e mais fáceis de entender.
+
+*Manutenibilidade: Facilite a localização e correção de erros.
+
+*Teste: Teste cada função independentemente, facilitando o processo.
+
+\n quebra de linha no texto
+\t tabulaçao (cria um espaço maior no texto )
+
+Namespace: nomeia uma area de trabalho para que assim possa ser referenciada no codigo-fonte reutilizando codigo.
+
+Console.Clear: é usado para a limpeza do console (retirada do menu anterior.)
+
+introduçao: "Voce se chama guedeslovski \n Voce acaba de se perder na floresta escura de Cassinolandia \n Voce ter que lutar contra seus desejos de apostas e concluir sua jornada."
